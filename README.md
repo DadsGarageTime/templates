@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/blakadder/templates) 
+
 # Tasmota Device Templates Repository
 This is an official repository of templates for devices that are flashable with [Tasmota](http://tasmota.com). 
 All the devices are submitted by the awesome community built around Tasmota and [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert).
